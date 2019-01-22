@@ -1,0 +1,9 @@
+.btn-container {
+  float: right;
+}
+
+@media (max-width: 777px) {
+  .btn-container {
+    margin-bottom: 25px;
+  }
+}
